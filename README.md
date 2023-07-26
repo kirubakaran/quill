@@ -1,3 +1,6 @@
+<h1>Note:</h1>
+This is general version, for version that's used for histre webapp, please use <code>histre-webapp</code> branch. As <code>histre-webapp</code> is an extension on this branch, when updating this branch, please make sure to rebase <code>histre-webapp</code> branch to include new changes.
+
 <h1>Build</h1>
 
 Select correct version of Node.js located in <code>.nvmrc</code> file. If you're using nvm, you can run:
